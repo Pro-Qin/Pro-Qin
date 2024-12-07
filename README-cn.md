@@ -4,7 +4,7 @@
 
 ### Yoo, 俺是 Qin_zzq 👋 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)  
-[英文-Englishi](https://github.com/Pro-Qin/Pro-Qin/blob/master/README.md "点我去看英文版的readme! Click Me to see readme in English!")
+[英文-English](https://github.com/Pro-Qin/Pro-Qin/blob/master/README.md "点我去看英文版的readme! Click Me to see readme in English!")
 
 Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin` or `zzq` is a more popular alias. ((^∀^*))
 <br>
