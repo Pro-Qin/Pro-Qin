@@ -1,13 +1,12 @@
-<div>
-  <blockquote>
-    <p>我是<span style="color: blue">小菜鸟</span>，想git就git ੭ ᐕ)੭*⁾⁾</p>
-  </blockquote>
-</div>
+<div><blockquote>
+    <p>我是小菜鸟，想git就git ੭ ᐕ)੭*⁾⁾</p>
+</blockquote></div>
 
-### Yoo, I'm Pro-Qin 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)
+### Yoo, I'm Qin_zzq 👋 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)
 
-Pro-Qin is a *curious* and *passionate* beginner in the internet industry. And `Qin_zzq` is a more popular alias. ((^∀^*))<br>
-He occasionally engages on GitHub. Currently a student, he lacks extensive time for development, and most of his projects are in the *conceptual stage*. ヾ(=･ω･=)o<br>
+Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin`或`zzq` is a more popular alias. ((^∀^*))<br>
+He occasionally engages on GitHub. Currently a student, he has little time for development, 和 most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o<br>
 **He warmly welcomes making new friends~** (\*≧∪≦)
 
 ---
@@ -17,10 +16,12 @@ He has the following skills:
 <!-- github卡片 -->
 <p>
   <img alt="Github" src="https://img.shields.io/badge/GitHub%20∞-495867?style=flat-square&logo=github&logoColor=ffffff" />
+  
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT%20∞-00CB7A?style=flat-square&logo=data:image/png;base64,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&logoColor=ffffff" />
+  
 </p>
 
-**Environment**
+**Develop Environment**
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-BigSur-E3006B?style=flat-square&logo=apple&logoColor=ffffff" />
