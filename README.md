@@ -5,8 +5,8 @@
 ### Yoo, I'm Qin_zzq 👋 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)
 
-Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin`或`zzq` is a more popular alias. ((^∀^*))<br>
-He occasionally engages on GitHub. Currently a student, he has little time for development, 和 most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o<br>
+Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin` or `zzq` is a more popular alias. ((^∀^*))<br>
+He occasionally engages on GitHub. Currently a student, he has little time for development, and most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o<br>
 **He warmly welcomes making new friends~** (\*≧∪≦)
 
 ---
