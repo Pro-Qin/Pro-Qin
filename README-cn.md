@@ -6,16 +6,16 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)  
 [英文-English](https://github.com/Pro-Qin/Pro-Qin/blob/master/README.md "点我去看英文版的readme! Click Me to see readme in English!")
 
-Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin` or `zzq` is a more popular alias. ((^∀^*))
+Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更方便的称呼((^∀^*))
 <br>
-Now, he is just a Junior High School Student who has to deal with the Chinese High School Entrance Exam.That's why he has little time for development, and most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o
+现在而言，他还只是一位即将要应付中考的初中生，这就是为什么他没什么时间开发，并且他的大部分项目都处在*未完工状态*ヾ(=･ω･=)o
 <br>
-**He warmly welcomes making new friends~** (\*≧∪≦)  
+**他特别喜欢结交新朋友哦～** (\*≧∪≦)  
 
 
 ---
 
-He has the following skills:
+**他的浅薄技能**
 
 <!-- github卡片 -->
 <p>
@@ -25,13 +25,13 @@ He has the following skills:
   
 </p>
 
-**Develop Environment**
+**开发环境**
 
 <p>
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-BigSur-E3006B?style=flat-square&logo=apple&logoColor=ffffff" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="Virtual Windows 10" src="https://img.shields.io/badge/Windows 10-Virtual & NO 3D-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-blue?style=flat-square&logoColor=ffffff" />
+  <img alt="MacOS" src="https://img.shields.io/badge/macOS-BigSur-E3006B?style=flat-square&logo=apple&logoColor=ffffff" />
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="虚拟机Windows 10" src="https://img.shields.io/badge/Windows 10-Virtual & NO 3D-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
+  <img alt="实体机Windows 11" src="https://img.shields.io/badge/Windows 11-blue?style=flat-square&logoColor=ffffff" />
 </p>
 <blockquote><p>
 His development environment of MacOS is very <b>bad</b>, because it is a <i>2017 13-inch MacBook Air</i>, even CPU is <i>intel</i>, and the system version is still <i>macOS Big Sur</i>, which is very <b>outdated</b>. 
