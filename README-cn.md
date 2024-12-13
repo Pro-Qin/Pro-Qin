@@ -46,15 +46,15 @@ Wait until the College Entrance exam ready to get a latest computer.</p></blockq
 </p>
 
 
-**Can you find him?**
+**你能找到他吗？**
 
 <p>
     <a href="https://github.com/Pro-Qin" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-1E2329?&style=for-the-badge&logo=Github&logoColor=white" /></a>     
     <a href="https://space.bilibili.com/1849305981" target="_blank">
-    <img alt="bilibili" src="https://img.shields.io/badge/Bilibili-00A1DE?&style=for-the-badge&logo=Bilibili&logoColor=white" /></a> 
+    <img alt="哔哩哔哩" src="https://img.shields.io/badge/Bilibili-00A1DE?&style=for-the-badge&logo=Bilibili&logoColor=white" /></a> 
     <a href="mailto:workqin@foxmail.com" target="_blank">
-    <img alt="email" src="https://img.shields.io/badge/Email-61D2E8?&style=for-the-badge&logo=Email&logoColor=white" /></a>
+    <img alt="邮件" src="https://img.shields.io/badge/Email-61D2E8?&style=for-the-badge&logo=Email&logoColor=white" /></a>
     <a href="https://tool.gljlw.com/qq/?qq=849806583" target="_blank">
     <img alt="QQ" src="https://img.shields.io/badge/QQ-FD0000?&style=for-the-badge&logo=data:image/png;base64,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&logoColor=white" /></a> 
 </p>
