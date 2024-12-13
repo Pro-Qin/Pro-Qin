@@ -6,10 +6,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPro-Qin%2FPro-Qin&label=Total%20Visitors&labelColor=%235a5a5a&countColor=%23263759&style=flat&labelStyle=none)  
 [英文-English](https://github.com/Pro-Qin/Pro-Qin/blob/master/README.md "点我去看英文版的readme! Click Me to see readme in English!")
 
-Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更方便的称呼((^∀^*))
-<br>
-现在而言，他还只是一位即将要应付中考的初中生，这就是为什么他没什么时间开发，并且他的大部分项目都处在*未完工状态*ヾ(=･ω･=)o
-<br>
+Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更方便的称呼((^∀^*))  
+现在而言，他还只是一位即将要应付中考的初中生，这就是为什么他没什么时间开发，并且他的大部分项目都处在*未完工状态*ヾ(=･ω･=)o  
 **他特别喜欢结交新朋友哦～** (\*≧∪≦)  
 
 
@@ -37,7 +35,7 @@ Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更�
 His development environment of MacOS is very <b>bad</b>, because it is a <i>2017 13-inch MacBook Air</i>, even CPU is <i>intel</i>, and the system version is still <i>macOS Big Sur</i>, which is very <b>outdated</b>. 
 Wait until the College Entrance exam ready to get a latest computer.</p></blockquote>
 
-**Languages He is Familiar With**
+**熟悉应手的编程语言**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10-2B71AE?style=flat-square&logo=python&logoColor=ffffff" />
