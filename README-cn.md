@@ -32,8 +32,9 @@ Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更�
   <img alt="实体机Windows 11" src="https://img.shields.io/badge/Windows 11-blue?style=flat-square&logoColor=ffffff" />
 </p>
 <blockquote><p>
-His development environment of MacOS is very <b>bad</b>, because it is a <i>2017 13-inch MacBook Air</i>, even CPU is <i>intel</i>, and the system version is still <i>macOS Big Sur</i>, which is very <b>outdated</b>. 
-Wait until the College Entrance exam ready to get a latest computer.</p></blockquote>
+他的MacOS开发环境十分恶劣，因为只是一台2017款13-inch的MacBook Air...甚至cpu都是intel的 系统还是过时的big sur！
+说是等到高考完买个<b>全新顶配</b>的电脑
+</p></blockquote>
 
 **熟悉应手的编程语言**
 
