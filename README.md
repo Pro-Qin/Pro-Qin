@@ -30,8 +30,7 @@ He has the following skills:
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-BigSur-E3006B?style=flat-square&logo=apple&logoColor=ffffff" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="Virtual Windows 10" src="https://img.shields.io/badge/Windows 10-Virtual & NO 3D-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-blue?style=flat-square&logoColor=ffffff" />
+  <img alt="Virtual Windows 10" src="https://img.shields.io/badge/Windows 10-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
 </p>
 <blockquote><p>
 His development environment of MacOS is very <b>bad</b>, because it is a <i>2017 13-inch MacBook Air</i>, even CPU is <i>intel</i>, and the system version is still <i>macOS Big Sur</i>, which is very <b>outdated</b>. 
