@@ -39,7 +39,7 @@ Wait until the College Entrance exam ready to get a latest computer.</p></blockq
 **Languages He is Familiar With**
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-2B71AE?style=flat-square&logo=python&logoColor=ffffff" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.14-2B71AE?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML 5-F83700?style=flat-square&logo=html5&logoColor=ffffff" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-D40000?style=flat-square&logo=markdown&logoColor=ffffff" />
 </p>
