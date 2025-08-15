@@ -7,7 +7,7 @@
 [英文-English](https://github.com/Pro-Qin/Pro-Qin/blob/master/README.md "点我去看英文版的readme! Click Me to see readme in English!")
 
 Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更方便的称呼((^∀^*))  
-现在而言，他还只是一位应付高考的初中生，这就是为什么他没什么时间开发，并且他的大部分项目都处在*未完工状态*ヾ(=･ω･=)o  
+现在而言，他还只是一位应付高考的高中生，这就是为什么他没什么时间开发，并且他的大部分项目都处在*未完工状态*ヾ(=･ω･=)o  
 **他特别喜欢结交新朋友哦～** (\*≧∪≦)  
 
 
