@@ -8,7 +8,7 @@
 
 Qin_zzq is a *curious* and *passionate* beginner in the internet. And `Qin` or `zzq` is a more popular alias. ((^∀^*))
 <br>
-Now, he is just a Junior High School Student who has to deal with the Chinese High School Entrance Exam.That's why he has little time for development, and most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o
+Now, he is just a High School Student who has to deal with the Chinese College Entrance Exam.That's why he has little time for development, and most of his projects are in the *uncompleted stage*. ヾ(=･ω･=)o
 <br>
 **He warmly welcomes making new friends~** (\*≧∪≦)  
 
