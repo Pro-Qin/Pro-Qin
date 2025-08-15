@@ -28,8 +28,7 @@ Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更�
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/macOS-BigSur-E3006B?style=flat-square&logo=apple&logoColor=ffffff" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="虚拟机Windows 10" src="https://img.shields.io/badge/Windows 10-Virtual & NO 3D-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
-  <img alt="实体机Windows 11" src="https://img.shields.io/badge/Windows 11-blue?style=flat-square&logoColor=ffffff" />
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10-Virtual & NO 3D-D40000?style=flat-square&logo=windows10&logoColor=ffffff" />
 </p>
 <blockquote><p>
 他的MacOS开发环境十分恶劣，因为只是一台2017款13-inch的MacBook Air...甚至cpu都是intel的 系统还是过时的big sur！
@@ -39,7 +38,7 @@ Qin_zzq是个*好奇*还*热情*的github初学者，`Qin`或者`zzq`是个更�
 **熟悉应手的编程语言**
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-2B71AE?style=flat-square&logo=python&logoColor=ffffff" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.14-2B71AE?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML 5-F83700?style=flat-square&logo=html5&logoColor=ffffff" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-D40000?style=flat-square&logo=markdown&logoColor=ffffff" />
 </p>
