@@ -66,8 +66,8 @@ name: Qin_zzq
 <h3>💻 个人统计</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&locale=cn" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Qin&layout=compact&theme=merko&hide_border=true&locale=cn" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&locale=cn" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Pro-Qin&layout=compact&theme=merko&hide_border=true&locale=cn" />
 </p>
 
 <!-- Activity Graph -->
@@ -126,7 +126,9 @@ name: Qin_zzq
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=green" />
+  <div style="width:100%; max-width:400px; margin:0 auto;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=green" style="width:100%;" />
+</div>
 </p>
 
 <p align="center">
