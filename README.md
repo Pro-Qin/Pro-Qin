@@ -66,7 +66,7 @@ motto: "お可愛いこと。"
 <h3>💻 GitHub Profile Stats</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true" />
   <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Pro-Qin&layout=compact&theme=merko&hide_border=true" />
 </p>
 
