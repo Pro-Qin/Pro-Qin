@@ -66,7 +66,7 @@ name: Qin_zzq
 <h3>💻 个人统计</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&locale=cn" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Pro-Qin&show_icons=true&theme=merko&hide_border=true&locale=cn" />
   <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Pro-Qin&layout=compact&theme=merko&hide_border=true&locale=cn" />
 </p>
 
