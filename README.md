@@ -153,8 +153,8 @@ These little tools eat most of the time I have left after problem sets. If one o
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/wechat-reward-dark.jpg" />
-    <img src="assets/wechat-reward-light.jpg" width="260" alt="WeChat reward QR · support Qin_zzq" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Pro-Qin/Pro-Qin@master/assets/wechat-reward-dark.jpg" />
+    <img src="https://cdn.jsdelivr.net/gh/Pro-Qin/Pro-Qin@master/assets/wechat-reward-light.jpg" width="260" alt="WeChat reward QR · support Qin_zzq" />
   </picture>
 </div>
 
